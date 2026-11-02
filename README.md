@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Header Banner / Dynamic Typing SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=220&section=header&text=RAMNEEK%20SHRIWADI&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Lead%20DevSecOps%20Engineer%20%7C%20Enterprise%20Cloud%20Architect%20%7C%20FinOps%20%26%20AIOps%20Pioneer&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Ramneek Shriwadi Header" />
+  <!-- High-Resolution Custom Vector Header Banner -->
+  <a href="https://github.com/diaryshriwadi-ops">
+    <img src="./assets/header.svg" width="100%" alt="Ramneek Shriwadi - Lead DevSecOps Engineer &amp; Enterprise Cloud Architect" />
+  </a>
 
   <br/>
 
